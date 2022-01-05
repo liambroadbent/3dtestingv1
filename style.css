@@ -24,4 +24,12 @@ canvas {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 10rem;
+}
+
+.box .text{
+  font-size: 10rem;
+  text-transform: uppercase;
+  font-weight: 900;
+  mix-blend-mode: overlay;
 }
