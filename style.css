@@ -32,4 +32,5 @@ canvas {
   text-transform: uppercase;
   font-weight: 900;
   mix-blend-mode: overlay;
+  color:white;
 }
